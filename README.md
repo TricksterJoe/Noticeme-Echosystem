@@ -1,8 +1,6 @@
-
 # Noticeme bot scripting echosystem
 
 An echo system that helps you create scripts for the noticeme bot, aiming for simplicity, verstality and streamlining the script making process.
-
 
 ## Features
 
@@ -13,10 +11,10 @@ An echo system that helps you create scripts for the noticeme bot, aiming for si
 - Set up item groups to cast (e.g 2x, 1.5x, etc)
 - Automatically set up summons
 
-
 ## Notes
+
 - In order for the script to recognize that the Use Inventory is opened, you'd have to use an indentifier, this could be found under script_lib/images/InventoryHelper/UseIdentifier.png
 - Example scripts will provided (Shadower/Nightwalker)
 - Detailed example scripts with comments will also be provided
+- Yes, it is messy as i never intended it to be used by a broader audience other then myself... so feel free to ask anything on Noticeme server and ill be happy to try and answer it.
 - Enjoy
-
